@@ -3,3 +3,4 @@ git is free software under the GPL
 git has a mutable index called stage
 Git tracks change of files again O
 creating a new branch is quick AND simple
+test no-ff
